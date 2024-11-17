@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
-https://stepik.org/lesson/187065
+Курс по использованию selenium в автоматизации тестирования
+https://stepik.org/course/575/
